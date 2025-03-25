@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Bisio, Emiliano Carlos*  
+- **Nombre:** Bisio, Emiliano Carlos  
 - **Comisión:** M2025-1  
 
 ## 📂 Descripción del Repositorio  
